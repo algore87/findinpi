@@ -1,6 +1,6 @@
 {
   "name": "greplite",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Find and indicate a string inside a string or a number inside of pi.",
   "main": "index.js",
   "repository": "algore87/greplite",
