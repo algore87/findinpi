@@ -3,6 +3,7 @@
   "version": "0.2.1",
   "description": "Find and indicate a string inside a string or a number inside of pi.",
   "main": "index.js",
+  "repository": "algore87/greplite",
   "dependencies": {
     "chalk": "^2.2.0",
     "pi": "^2.0.2"
@@ -15,10 +16,6 @@
   "files": [
 		"index.js"
   ],
-  "repository": {
-    "type": "git",
-    "url": "algore87/greplite"
-  },
   "keywords": [
     "pi",
     "search",
