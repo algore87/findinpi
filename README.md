@@ -1,2 +1,2 @@
-# findinpi
-Search and find a number inside of pi.
+# greplite
+Search and indicate a string or number in a string or pi.
