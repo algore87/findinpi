@@ -1,0 +1,31 @@
+{
+  "name": "greplite",
+  "version": "0.2.1",
+  "description": "Find and indicate a string inside a string or a number inside of pi.",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.2.0",
+    "pi": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "algore87/greplite"
+  },
+  "keywords": [
+    "pi",
+    "search",
+    "find",
+    "grep"
+  ],
+  "author": "algore87",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/algore87/greplite/issues"
+  },
+  "homepage": "https://github.com/algore87/greplite#readme"
+}
